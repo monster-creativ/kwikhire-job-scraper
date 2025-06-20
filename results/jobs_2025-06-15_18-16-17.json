@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Python Developer",
+        "company": "Tech Company",
+        "location": "Pretoria",
+        "posted_date": "2025-06-15",
+        "salary": "R30,000 - R40,000",
+        "url": "https:\/\/example.com\/job1",
+        "description": "Looking for an experienced Python developer...",
+        "requirements": "Python, Django, Flask, etc.",
+        "job_board": "careers24"
+    },
+    {
+        "title": "Senior Developer",
+        "company": "Software House",
+        "location": "Pretoria",
+        "posted_date": "2025-06-15",
+        "salary": "R40,000 - R50,000",
+        "url": "https:\/\/example.com\/job2",
+        "description": "Senior developer position...",
+        "requirements": "5+ years experience, team lead skills",
+        "job_board": "careers24"
+    }
+]
